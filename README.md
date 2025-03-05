@@ -165,7 +165,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <hr>
 
 ### 🔥 Streak Stats
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=algolia" alt="muhammadfaizanhaidar"  /></p>
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></p>
