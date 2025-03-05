@@ -1,7 +1,7 @@
-<h2>
-  <p align="center">Hi , I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+<p align="center">Hi , I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
-</h2>
+
 <hr>
 <p align="center">
   <a><img
