@@ -76,7 +76,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 </p>
 
 ### 👉 Databases & Cloud Hosting
-<p align="left">
+<p align="left"> &emsp;
     <a
     href="https://www.microsoft.com/sql-server" target="_blank"> <img alt="SQL Server"
       src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
