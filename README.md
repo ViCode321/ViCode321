@@ -34,23 +34,23 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 <p align="left"> &emsp;
   <a href="https://www.python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" />
   </a> &emsp;
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" />
   </a> &emsp;
   <a href="https://www.java.com/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" />
   </a> &emsp;
   <a href="https://kotlinlang.org/">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white">
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white" />
   </a> &emsp;
-  <a href="https://en.wikipedia.org/wiki/C(programming_language)" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white">
+  <a href="https://en.wikipedia.org/wiki/C(programming_language)">
+    <img alt="C" src="https://img.shields.io/badge/C-%23A8B9CC.svg?logo=c&logoColor=white" />
   </a> &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JavaScript"
-      src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+      src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" />
   </a>
 </p>
 
