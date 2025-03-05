@@ -165,25 +165,63 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <hr>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=algolia" alt="ViCode321" /></p>
-
-<hr>
 <p align="center">
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<i><b>Git Activeness</b></i></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
-    alt="ovi" /></p>
-<p>&nbsp;<img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark"
-    alt="ovi" width="410" /></p>
-<br><br><br><br><br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=algolia" alt="ViCode321" />
+</p>
 
 <hr>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile
-  Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=ViCode321&theme=juicyfresh&no-bg=true" />
+### 🚀 GitHub Activity
+<p align="center">
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />
+    &nbsp;<i><b>Git Activeness</b></i>
+</p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
+        alt="Top Languages" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark"
+        alt="GitHub Stats" width="410" />
+</p>
+
+<hr>
+
+### 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
+    &nbsp;Git profile Trophies
+</p>
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ViCode321&theme=juicyfresh&no-bg=true" />
+</p>
+
+<hr>
+
+### 📊 GitHub Metrics
+<p align="center">
+    <img src="https://metrics.lecoq.io/ViCode321?template=classic&isocalendar=1&languages=1&stars=1&habits=1&achievements=1&activity=1&followup=1&introduction=1&people=1&repositories=1&repositories=100&repositories.batch=100&repositories.affiliations=owner&repositories.visibility=public&repositories.pinned=0&repositories.forks=0&config.timezone=America%2FNew_York"
+        alt="GitHub Metrics" />
+</p>
+
+<hr>
+
+### 💻 Developer Stats
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViCode321&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/ViCode321/github-stats/blob/master/generated/overview.svg" alt="GitHub Overview" />
+    <img src="https://github.com/ViCode321/github-stats/blob/master/generated/languages.svg" alt="GitHub Languages" />
+</p>
+
+<hr>
+
+### 🎵 Now Playing on Spotify
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
+</p>
 
 -----
 Credits: [ViCode321](https://github.com/ViCode321)
