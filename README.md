@@ -171,9 +171,6 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br>
 
-
-<hr>
-
 ## 🏆 GitHub Trophies
 <p align="center">
     <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
@@ -206,7 +203,6 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
------
 Credits: [ViCode321](https://github.com/ViCode321)
 
 Last Edited on: 05/03/2025
