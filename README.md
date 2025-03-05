@@ -143,9 +143,6 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 ### 👉 IA
 <p align="left"> &emsp;
-    <a href="https://aws.amazon.com/" target="_blank">
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
-    </a> &emsp;
     <a href="https://openai.com/chatgpt" target="_blank">
       <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white" />
     </a> &emsp;
