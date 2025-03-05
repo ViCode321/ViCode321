@@ -130,7 +130,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
       src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 </p>
 
-### 👉 Web service platform
+### 👉 Cloud Computing 
 
 <p align="left"> &emsp;
     <a href="https://aws.amazon.com/" target="_blank">
@@ -140,6 +140,23 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
       <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" />
     </a> &emsp;
 </p>
+
+### 👉 IA
+<p align="left"> &emsp;
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
+    </a> &emsp;
+    <a href="https://openai.com/chatgpt" target="_blank">
+      <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white" />
+    </a> &emsp;
+    <a href="https://www.bing.com/new" target="_blank">
+      <img alt="Bing AI" src="https://img.shields.io/badge/Bing%20AI-258FFA?style=flat&logo=Microsoft-Bing&logoColor=white" />
+    </a> &emsp;
+    <a href="https://deepseek.com/" target="_blank">
+      <img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-008080?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABIElEQVRYR+2WsUoDQRCFv0pYKCgoKChIZGdn4JSEhBQUv4AC7gDgAIqCgpa9RmMhQXgIfgIIgZpa0NFBkJtLNVy+VhT2dd3Zu6XJ7Y7CT9+DJJXGGeW8CyABngDUs9E6hv8AZ8ATmANwgp+xlD8zGV3lA1cAFrABmEBz6qA3aAHUABfwM+mr3/jkLTQQD8wKl6UEFGwAt4m9qzgEXDykbiH4AUmAPvQq2/QOEKRIRwq1zyvxgb0DZuAaOcbIHfgAysARuAB7wHmk4hhq4BzN8AxWvgoE7oJWxImq8drd0RHgeZMg9HjHpPLD5ncJs4IPG71YUnqUmHLRIR8YmeTNyrwPv1j34j5ZkpTf3kW2CtnH5MX18vEMrnE+9PrQ8w5ynrT/+qG/k77u7AvUynpZZmAAAAABJRU5ErkJggg==" />
+    </a> &emsp;
+</p>
+
 <br />
 
 <hr>
