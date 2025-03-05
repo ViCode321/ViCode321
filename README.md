@@ -100,6 +100,13 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 ### 👉 Software & Tools
 
 <p align="left"> &emsp;
+    <a
+    href="https://www.microsoft.com/sql-server" target="_blank"> <img alt="SQL Server"
+      src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
+    </a> &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL"
+      src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
+    </a> &emsp;
   <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
   <a href="https://www.linux.org/" target="_blank"><img alt="Linux"
