@@ -20,7 +20,7 @@
 
 <br />
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>My Skills
+## <picture><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28SSX1wrl636MAXX0rKXXkO59dyqnR0ObeA&s?raw=true" width = 50px></picture>My Skills
 
 ### 👉 Programming languages
 
