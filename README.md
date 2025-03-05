@@ -101,37 +101,31 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 <p>
   &emsp;
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Linux"
+  <a href="#" target="_blank"><img alt="Linux"
       src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
-  <a href="#"><img alt="Visual Studio Code"
+  <a href="#" target="_blank"><img alt="Visual Studio Code"
       src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Visual Studio"
+  <a href="#" target="_blank"><img alt="Visual Studio"
       src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Android Studio"
+  <a href="#" target="_blank"><img alt="Android Studio"
       src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Eclipse"
+  <a href="#" target="_blank"><img alt="Eclipse"
       src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipse-ide&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="VirtualBox"
+  <a href="#" target="_blank"><img alt="VirtualBox"
       src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white"></a>
   &emsp;
-  <a href="#"><img alt="Figma"
-      src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="NetBeans"
+  <a href="#" target="_blank"><img alt="NetBeans"
       src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white"></a>
   &emsp;
   <a href="#"><img alt="Postman"
       src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-  &emsp;
-  <a href="#"><img alt="Stack Overflow"
-      src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
 </p>
 
