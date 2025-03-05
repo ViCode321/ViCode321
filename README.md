@@ -1,4 +1,4 @@
-## <div align="center"> <a style="font-size: 2em; font-weight: bold;">Hi, I'm ViCode321<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></a></div>
+## <div align="center">Hi, I'm ViCode321<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></div>
 
 <hr>
 
