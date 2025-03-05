@@ -104,30 +104,32 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
     href="https://www.microsoft.com/sql-server" target="_blank"> <img alt="SQL Server"
       src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
     </a> &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL"
-      src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
-    </a> &emsp;
-  <a href="https://git-scm.com/" target="_blank"> <img alt="Git" 
-      src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.linux.org/" target="_blank"><img alt="Linux"
-      src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"></a>
-  &emsp;
-  <a href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code"
-      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio"
-      src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white"></a>
-  &emsp;
-  <a href="https://developer.android.com/" target="_blank"><img alt="Android Studio"
-      src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white"></a>
-  &emsp;
+  <a 
+      href="https://git-scm.com/" target="_blank"> <img alt="Git" 
+      src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
+  </a> &emsp;
+  <a 
+      href="https://www.linux.org/" target="_blank"> <img alt="Linux"
+      src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
+  </a> &emsp;
+  <a 
+      href="https://code.visualstudio.com/" target="_blank"><img alt="Visual Studio Code"
+      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white"/>
+  </a> &emsp;
+  <a 
+      href="https://visualstudio.microsoft.com/" target="_blank"><img alt="Visual Studio"
+      src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
+  </a> &emsp;
+  <a 
+      href="https://developer.android.com/" target="_blank"><img alt="Android Studio"
+      src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
+  </a> &emsp;
   <a href="https://www.virtualbox.org/" target="_blank"><img alt="VirtualBox"
-      src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white"></a>
-  &emsp;
+      src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
+  </a> &emsp;
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank"><img alt="NetBeans"
-      src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white"></a>
-  &emsp;
+      src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
+  </a> &emsp;
   <a href="https://www.postman.com/"><img alt="Postman"
       src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   &emsp;
