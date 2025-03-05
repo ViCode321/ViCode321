@@ -125,15 +125,17 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
       src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
   </a> &emsp;
   <a href="https://www.virtualbox.org/" target="_blank"><img alt="VirtualBox"
-      src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
+      src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white"/>
   </a> &emsp;
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank"><img alt="NetBeans"
-      src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white"/>
+      src="https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white"/>
   </a> &emsp;
   <a href="https://www.postman.com/"><img alt="Postman"
       src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
   &emsp;
 </p>
+
+### 👉 Web service platform
 
 <br />
 
