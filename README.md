@@ -101,7 +101,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 <p>
   &emsp;
-  <a href="#" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
   <a href="#" target="_blank"><img alt="Linux"
       src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"></a>
