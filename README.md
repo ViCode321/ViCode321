@@ -64,10 +64,9 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
   &emsp; <a href="https://reactjs.org/" target="_blank"> <img alt="React"
       src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /> </a> &emsp; <a
     href="https://dotnet.microsoft.com/apps/aspnet/web-apps" target="_blank"> <img alt="Razor Pages"
-      src="https://img.shields.io/badge/Razor%20Pages-%230072B6.svg?style=flat&logo=.net&logoColor=white" /> </a> 
-        <a href="https://jquery.com/" target="_blank"> 
-            <img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/> 
-        </a>
+      src="https://img.shields.io/badge/Razor%20Pages-%230072B6.svg?style=flat&logo=.net&logoColor=white" /> </a> &emsp;
+        <a href="https://jquery.com/" target="_blank"> <img alt="jQuery" 
+      src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/> </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
