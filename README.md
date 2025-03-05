@@ -23,6 +23,6 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,net,js,html,css,react,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,linux,clean&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,net,js,html,css,react,django,postgres,mongo,git,vscode,docker,aws,postman,linux&perline=10"  />
 </p>
 <br />
