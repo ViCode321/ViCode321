@@ -107,7 +107,8 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
     <a href="https://www.mysql.com/"><img alt="MySQL"
       src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
     </a> &emsp;
-  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="https://git-scm.com/" target="_blank"> <img alt="Git" 
+      src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"></a>
   &emsp;
   <a href="https://www.linux.org/" target="_blank"><img alt="Linux"
       src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"></a>
