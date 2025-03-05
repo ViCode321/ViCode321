@@ -173,10 +173,6 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
-    &nbsp;Git profile Trophies
-</p>
-<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ViCode321&theme=juicyfresh&no-bg=true" />
 </p>
 
