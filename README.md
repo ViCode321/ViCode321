@@ -162,17 +162,13 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <hr>
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=algolia"
-    alt="ViCode321" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=algolia" alt="ViCode321" /></p>
 
 <hr>
 <p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<i><b>Git
-      Activeness</b></i>
-</p>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
     alt="ovi" /></p>
 <p>&nbsp;<img align="right"
     src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark"
@@ -189,4 +185,4 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 -----
 Credits: [ViCode321](https://github.com/ViCode321)
 
-Last Edited on: 05/08/2021
+Last Edited on: 05/03/2025
