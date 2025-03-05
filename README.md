@@ -173,7 +173,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <p>&nbsp;<img align="right"
     src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark"
     alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <hr>
 
