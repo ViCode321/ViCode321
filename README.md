@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `Computer Engineering Student` at [Information Technology Department] at [National University of Engineering](https://www.uni.edu.ni).
+- :school: I am a `Computer Engineering Student` at [Information Technology Department](https://www.uni.edu.ni) at [National University of Engineering](https://www.uni.edu.ni).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
