@@ -70,23 +70,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 </p>
 
 ### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-  <a href="https://www.mysql.com/"><img alt="MySQL"
-      src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-  <a href="https://www.sqlite.org/"><img alt="SQLite"
-      src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" /></a>
-  &emsp;
-  <a href="https://www.github.com"><img alt="GitHub Pages"
-      src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-  <a href="https://closte.com/" style="background-color:white"><img alt="Closte" height="25px" width="50px"
-      src="https://closte.com/wp-content/uploads/2017/07/logo-4A5960.svg"></a>
-  &emsp;
-  <a href="https://firebase.google.com/"><img alt="Firebase"
-      src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-</p>
+<p align="left"> &emsp; <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a> &emsp; <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" /></a> &emsp; <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white"/> </a> &emsp; <a href="https://www.microsoft.com/sql-server" target="_blank"> <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white"/> </a> &emsp; <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a> &emsp; <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a> </p>
 
 ### 👉 Software & Tools
 
