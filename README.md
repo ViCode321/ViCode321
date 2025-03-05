@@ -32,16 +32,16 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 ### 👉 Programming languages
 
-<p align="left"> &emsp;
-    <a href="https://www.python.org/">
-        <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" />
-    </a> &emsp;
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" />
-    </a> &emsp;
+<p align="left"> &emsp;    
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" />
   </a> &emsp;
+<a href="https://www.python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white" />
+</a> &emsp;
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white" />
+</a> &emsp;
   <a href="https://www.java.com/">
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white" />
   </a> &emsp;
