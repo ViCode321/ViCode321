@@ -1,4 +1,4 @@
-<h1 align="center" style="border: none; margin: 0;">Hi, I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></h1>
+**Hi, I'm ViCode321** ![wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 <hr>
 <p align="center">
