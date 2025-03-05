@@ -100,10 +100,6 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 ### 👉 Software & Tools
 
 <p align="left"> &emsp;
-    <a
-    href="https://www.microsoft.com/sql-server" target="_blank"> <img alt="SQL Server"
-      src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
-    </a> &emsp;
   <a 
       href="https://git-scm.com/" target="_blank"> <img alt="Git" 
       src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
@@ -132,10 +128,17 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
   </a> &emsp;
   <a href="https://www.postman.com/"><img alt="Postman"
       src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-  &emsp;
 </p>
 
 ### 👉 Web service platform
+
+<p align="left"> &emsp;
+    <a
+    href="https://www.microsoft.com/sql-server" target="_blank"> <img alt="SQL Server"
+      src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
+    </a> &emsp;
+
+</p>
 
 <br />
 
