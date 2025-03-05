@@ -19,7 +19,7 @@
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViCode321&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ViCode321" style="padding-right:20px;" /></p>
 
 <br />
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>🛠️ My Skills
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>🛠️ My Skills
 
 ### 👉 Programming languages
 
