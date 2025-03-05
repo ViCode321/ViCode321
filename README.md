@@ -12,10 +12,8 @@
 - :school: I am a `Computer Engineering Student` at [Information Technology Department](https://www.uni.edu.ni) at [National University of Engineering](https://www.uni.edu.ni).
 - :computer: I am a `Junior Backend Developer`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [Linkedin Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <br>
 
 
