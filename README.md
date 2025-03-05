@@ -78,7 +78,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
       src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/> 
     </a> &emsp; <a 
     href="https://sass-lang.com/" target="_blank"> <img alt="Sass" 
-      src="https://img.shields.io/badge/Sass-%230769AD.svg?style=flat&logo=jquery&logoColor=white"/> </a>
+      src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
