@@ -172,10 +172,10 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 </p>
 
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfaizanhaidar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"
     alt="ovi" /></p>
 <p>&nbsp;<img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=muhammadfaizanhaidar&show_icons=true&locale=en&theme=chartreuse-dark"
+    src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark"
     alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
@@ -183,10 +183,10 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile
   Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadfaizanhaidar&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ViCode321&theme=juicyfresh&no-bg=true" />
 
 
 -----
-Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
+Credits: [ViCode321](https://github.com/ViCode321)
 
 Last Edited on: 05/08/2021
