@@ -1,6 +1,7 @@
-<div align="center" style="font-size: 2em; font-weight: bold;"> <h1>Hi, I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></h1></div>
+<div align="center" style="font-size: 2em; font-weight: bold;"> <h1>Hi, I'm ViCode321</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></div>
 
 <hr>
+
 <p align="center">
   <a><img
       src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Junior+Backend+Developer;Always+learning+new+things"></a>
