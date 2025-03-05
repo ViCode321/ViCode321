@@ -133,13 +133,13 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 ### 👉 Web service platform
 
 <p align="left"> &emsp;
-    <a
-    href="https://www.microsoft.com/sql-server" target="_blank"> <img alt="SQL Server"
-      src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white" />
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
     </a> &emsp;
-
+    <a href="https://azure.microsoft.com/" target="_blank">
+      <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" />
+    </a> &emsp;
 </p>
-
 <br />
 
 <hr>
