@@ -1,5 +1,5 @@
 
-<p align="center">Hi , I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<p align="center">Hi , I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34">
 </p>
 
 <hr>
@@ -175,7 +175,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 
 <hr>
