@@ -210,21 +210,17 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/víctor-guevara-8130622bb" target="_blank">
+<a href="https://www.linkedin.com/in/víctor-guevara-8130622bb">
   <img align="center" alt="Victor Guevara | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
+</a>
 <a href="vico125guevara@gmail.com" >
   <img align="center" alt="Victor Guevara | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+</a>
 <p>
   
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
-
----
-
-[StefanosSt](https://github.com/StefanosSt)
 
 ## Credits
 Credits to [ViCode321](https://github.com/ViCode321)
