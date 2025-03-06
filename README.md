@@ -216,16 +216,10 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
 </td>
   </tr>
-  <tr>
-    <th colspan="2" align="center">
-      <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
-    </th>
-  </tr>
-  
 </table>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/ViCode321?template=classic&isocalendar=1&languages=1&stars=1&habits=1&achievements=1&activity=1&followup=1&introduction=1&people=1&repositories=1&repositories=100&repositories.batch=100&repositories.affiliations=owner&repositories.visibility=public&repositories.pinned=0&repositories.forks=0&config.timezone=America%2FNew_York"
+  <img src="https://metrics.lecoq.io/ViCode321?template=classic&isocalendar=1&languages=1&stars=1&habits=1&achievements=1&activity=1&followup=1&introduction=1&people=1&repositories=1&repositories=100&repositories.batch=100&repositories.affiliations=owner&repositories.visibility=public&repositories.pinned=1&repositories.forks=1&config.timezone=America%2FNew_York"
        alt="ViCode321's GitHub Metrics" />
 </p><br>
 
