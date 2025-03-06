@@ -4,7 +4,7 @@
   </picture>
 </p>
 
-## <p align="center"> <a>Hello 🌍!, I'm ViCode321</a><a>🚀 Welcome to My GitHub Profile!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
+## <p align="center"> <a>Hello 🌍!, I'm ViCode321</a><br /><a>🚀 Welcome to My GitHub Profile!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
 
 <p align="center">
   <a><img
