@@ -4,8 +4,8 @@
   </picture>
 </p>
 
-## <p align="center">Hello 🌍!, I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
-## 🚀 Welcome to My GitHub Profile!
+## <p align="center">Hello 🌍!, I'm ViCode321 🚀 Welcome to My GitHub Profile!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
+
 <p align="center">
   <a><img
       src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&color=%233498DB&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Junior+Backend+Developer;" alt="Typing SVG"></a>
