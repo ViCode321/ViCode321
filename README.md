@@ -167,6 +167,19 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
     </a> &emsp;
 </p>
 
+### 👉 Software Architecture Patterns
+<p align="left"> &emsp;
+    <a href="https://example.com/clean-architecture" >
+      <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean%20Architecture-007ACC?style=flat&logo=Clean%20Architecture&logoColor=white" >
+    </a> &emsp;
+    <a href="https://example.com/mvc-pattern" >
+      <img alt="MVC" src="https://img.shields.io/badge/MVC-4285F4?style=flat&logo=MVC&logoColor=white" >
+    </a> &emsp;
+    <a href="https://example.com/mvt-pattern" >
+      <img alt="MVT" src="https://img.shields.io/badge/MVT-0A66C2?style=flat&logo=MVT&logoColor=white" >
+    </a> &emsp;
+</p>
+
 <br />
 
 ## 🔥 Streak Stats
