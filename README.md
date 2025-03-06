@@ -8,7 +8,7 @@
 
 <p align="center">
   <a><img
-      src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=%233498DB&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Junior+Backend+Developer;Always+learning+new+things" alt="Typing SVG"></a>
+      src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&color=%233498DB&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Junior+Backend+Developer;Always+learning+new+things" alt="Typing SVG"></a>
 </p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>About me
