@@ -1,12 +1,11 @@
-<picture><img src="https://camo.githubusercontent.com/359e7fc5c22e035b02d6120b41c5d5464994e374bf7a208ac14244becf67949e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966?raw=false" width=500px></picture>
-
-
 ## <p align="center">Hi, I'm ViCode321<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
 
 <p align="center">
   <a><img
       src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Junior+Backend+Developer;Always+learning+new+things"></a>
 </p>
+
+<picture><img src="https://camo.githubusercontent.com/359e7fc5c22e035b02d6120b41c5d5464994e374bf7a208ac14244becf67949e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966?raw=false" width=500px></picture>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>About me
 
