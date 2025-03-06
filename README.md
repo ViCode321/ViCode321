@@ -178,7 +178,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 ## 🚀 GitHub Activity
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ViCode321's Most Used Languages" /><br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ViCode321's Most Used Languages" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark" alt="ViCode321's GitHub Stats" width="410" />
 </p>
 <br><br><br><br><br><br><br><br>
