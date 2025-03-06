@@ -204,10 +204,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
   <img src="https://github.com/ViCode321/github-stats/blob/master/generated/languages.svg" alt="ViCode321's GitHub Languages" />
 </p>
 
-## 🎵 Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Now Playing on Spotify" />
-</p>
+## 📞 Contact Me
 
 <div align="center">
   <h3><b>Let's get in touch! </b></h3>
