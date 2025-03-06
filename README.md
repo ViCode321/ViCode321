@@ -16,7 +16,7 @@
 - :computer: I am a `Junior Backend Developer`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [Linkedin
+- :thinking: I’m currently open for a new `job opportunity`, this is my [Linkedin
 Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <br>
 
