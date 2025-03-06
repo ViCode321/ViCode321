@@ -163,7 +163,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <br />
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=algolia" alt="ViCode321"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?username=ViCode321&theme=algolia" alt="ViCode321"  /></p>
  
 ## 🚀 GitHub Activity
 <p align="center">
