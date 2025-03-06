@@ -199,18 +199,18 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ViCode321&theme=juicyfresh&no-bg=true" alt="ViCode321's Trophies" />
-</p>
+</p><br>
 
 ## 📊 GitHub Metrics
 <p align="center">
   <img src="https://metrics.lecoq.io/ViCode321?template=classic&isocalendar=1&languages=1&stars=1&habits=1&achievements=1&activity=1&followup=1&introduction=1&people=1&repositories=1&repositories=100&repositories.batch=100&repositories.affiliations=owner&repositories.visibility=public&repositories.pinned=0&repositories.forks=0&config.timezone=America%2FNew_York"
        alt="ViCode321's GitHub Metrics" />
-</p>
+</p><br>
 
 ## 💻 Developer Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViCode321&theme=react-dark&hide_border=true" alt="ViCode321's Activity Graph" />
-</p>
+</p><br>
 
 ## 📞 Contact Me
 
@@ -225,7 +225,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
   
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
-</p>
+</p><br>
 
 ## 🤓 Credits
 Credits to [ViCode321](https://github.com/ViCode321)
