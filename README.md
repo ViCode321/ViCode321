@@ -212,7 +212,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
 
-## Credits
+## 🤓 Credits
 Credits to [ViCode321](https://github.com/ViCode321)
 
 _Last Edited on: 05/03/2025_
