@@ -202,8 +202,6 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 </p><br>
 
 ## 📊 GitHub Metrics
-
-## 📊 GitHub Metrics
 <p align="center">
   <img src="https://metrics.lecoq.io/ViCode321?template=classic&base.header=0&base.community=0&base.metadata=0&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=America%2FMexico_City&config.twemoji=true" alt="ViCode321's GitHub Metrics" />
 </p>
