@@ -169,7 +169,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 <br />
 
-# 🚀 Welcome to My GitHub Profile!
+## 🚀 Welcome to My GitHub Profile!
 
 ## 🔥 Streak Stats
 <p align="center">
@@ -181,7 +181,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ViCode321's Most Used Languages" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark" alt="ViCode321's GitHub Stats" width="410" />
 </p>
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -197,11 +197,6 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 ## 💻 Developer Stats
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViCode321&theme=react-dark&hide_border=true" alt="ViCode321's Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/ViCode321/github-stats/blob/master/generated/overview.svg" alt="ViCode321's GitHub Overview" />
-  <img src="https://github.com/ViCode321/github-stats/blob/master/generated/languages.svg" alt="ViCode321's GitHub Languages" />
 </p>
 
 ## 📞 Contact Me
