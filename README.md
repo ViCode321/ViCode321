@@ -4,13 +4,13 @@
   </picture>
 </p>
 
-## <p align="center">Hi, I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
+## <p align="center">Hello 🌍!, I'm ViCode321 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
 
 <p align="center">
   <a><img
       src="https://readme-typing-svg.herokuapp.com?font=Comic+sans+MS&color=%233498DB&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Engineering+Student;Junior+Backend+Developer;" alt="Typing SVG"></a>
 </p>
-
+😍
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
