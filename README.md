@@ -181,17 +181,17 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 </p>
 
 <br />
-
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=blue-light" alt="ViCode321's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=blueberry" alt="ViCode321's Streak Stats" />
 </p>
 
 ## 🚀 GitHub Activity
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=blue-light" alt="ViCode321's Most Used Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=blue-light" alt="ViCode321's GitHub Stats" width="410" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=blueberry" alt="ViCode321's Most Used Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=blueberry" alt="ViCode321's GitHub Stats" width="410" />
 </p>
+
 
 <br><br><br><br><br><br><br><br>
 
