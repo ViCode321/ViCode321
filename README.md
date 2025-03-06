@@ -29,11 +29,11 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViCode321&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="ViCode321" style="padding-right:20px;" /></p>
 
-<br /><br /><br /><br /><br /><br />
+<br />
 
 <img align="right" width=200px height=200px alt="side_sticker"
   src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
+<br />
 
 ## 🛠️ My Skills
 
