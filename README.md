@@ -4,7 +4,7 @@
   </picture>
 </p>
 
-## <p align="center"> <a>Hello 🌍!, I'm ViCode321</a><br /><a>🚀 Welcome to My GitHub Profile!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
+## <p align="center"> <a>Hello 🌍!, I'm ViCode321</a><br /><a>⚡ Welcome to My GitHub Profile!</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34"></p>
 
 <p align="center">
   <a><img
@@ -184,14 +184,15 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=algolia" alt="ViCode321's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViCode321&theme=blue-green" alt="ViCode321's Streak Stats" />
 </p>
 
 ## 🚀 GitHub Activity
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ViCode321's Most Used Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=chartreuse-dark" alt="ViCode321's GitHub Stats" width="410" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ViCode321&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ViCode321's Most Used Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ViCode321&show_icons=true&locale=en&theme=blue-green" alt="ViCode321's GitHub Stats" width="410" />
 </p>
+
 <br><br><br><br><br><br><br><br>
 
 ## 🏆 GitHub Trophies
