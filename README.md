@@ -81,7 +81,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
       src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
     </a>
     </a> &emsp;
-      <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img alt="Flask"
+      <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img alt="Flask"
       src="https://img.shields.io/badge/API-REST-violet&logoColor=white"> 
     </a>
 </p>
