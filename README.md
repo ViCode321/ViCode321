@@ -60,7 +60,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
   </a> &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JavaScript"
-      src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white" />
+      src="https://img.shields.io/badge/JavaScript%20-%FFFFFF.svg?logo=javascript&logoColor=white" />
   </a>
 </p>
 
