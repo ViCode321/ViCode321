@@ -119,8 +119,11 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
     </a> &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL"
       src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
-    </a> &emsp; <a
-    href="https://www.sqlite.org/"><img alt="SQLite"
+    </a> &emsp; 
+    <a href="https://www.postgresql.org/"><img alt="PostreSQL"
+      src="https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white">
+    </a> &emsp;     
+    <a href="https://www.sqlite.org/"><img alt="SQLite"
       src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
     </a> &emsp; <a
     href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB"
