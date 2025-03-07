@@ -77,7 +77,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
       src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"> 
     </a>
     </a> &emsp;
-      <a href="https://www.djangoproject.com/" target="_blank"> <img alt="Django"
+      <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img alt="Flask"
       src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
     </a>
 </p>
