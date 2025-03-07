@@ -78,7 +78,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
     </a>
     </a> &emsp;
       <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img alt="Flask"
-      src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
+      src="https://img.shields.io/badge/Flask-092E20?style=flat&logo=Flask&logoColor=white"> 
     </a>
 </p>
 
