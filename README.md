@@ -70,7 +70,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
       src="https://img.shields.io/badge/-.NET%208.0-blueviolet?style=flat?logo=dotnet&logoColor=white"> 
     </a> &emsp;
       <a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7" target="_blank"> <img alt=".NET 7"
-      src="https://img.shields.io/badge/.NET%20Core%207-512bd4?style=flat?logo=dotnet&logoColor=white"> 
+      src="https://img.shields.io/badge/.NET%20%207-512bd4?style=flat?logo=dotnet&logoColor=white"> 
     </a>
     </a> &emsp;
       <a href="https://www.djangoproject.com/" target="_blank"> <img alt="Django"
