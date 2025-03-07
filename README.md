@@ -127,7 +127,7 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
       src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white" /> 
     </a> &emsp; <a 
     href="https://www.github.com"><img alt="GitHub Pages"
-      src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github?style=flat&llogo=github&logoColor=white">
+      src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white">
     </a> &emsp; 
     <a href="https://firebase.google.com/"><img alt="Firebase"
       src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
