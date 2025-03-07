@@ -67,14 +67,18 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 ### 👉 Backend Development
 <p align="left"> &emsp; 
     <a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-8/overview" target="_blank"> <img alt=".NET 8"
-      src="https://img.shields.io/badge/-.NET%208.0-blueviolet?style=flat?logo=dotnet&logoColor=white"> 
+      src="https://img.shields.io/badge/-.NET%208-blueviolet?style=flat?logo=dotnet&logoColor=white"> 
     </a> &emsp;
       <a href="https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-7" target="_blank"> <img alt=".NET 7"
       src="https://img.shields.io/badge/.NET%20%207-512bd4?style=flat?logo=dotnet&logoColor=white"> 
     </a>
     </a> &emsp;
       <a href="https://www.djangoproject.com/" target="_blank"> <img alt="Django"
-      src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=green"> 
+      src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"> 
+    </a>
+    </a> &emsp;
+      <a href="https://www.djangoproject.com/" target="_blank"> <img alt="Django"
+      src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"> 
     </a>
 </p>
 
