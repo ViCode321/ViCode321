@@ -248,9 +248,6 @@ Profile](https://www.linkedin.com/in/víctor-guevara-8130622bb).
 <a href="https://www.linkedin.com/in/víctor-guevara-8130622bb">
   <img align="center" alt="Victor Guevara | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="vico125guevara@gmail.com" >
-  <img align="center" alt="Victor Guevara | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
 <p>
   
 <p align="center">
